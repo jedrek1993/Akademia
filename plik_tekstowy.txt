@@ -1,3 +1,2 @@
-pierwsza linia
-druga linia
-trzecia linia
+Teraz jest inna linia 
+ asdad
